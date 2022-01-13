@@ -1,5 +1,7 @@
-# All About Nicole
-You might be wondering: **Who is Nicole Arcolino?**
+# All About Nicole: Tech Writing Practice
+You might be wondering: **Who is _Nicole Arcolino?_**
+
+This file explains all about her, as she explores the field of Technical Writing.
 
 ## Education
 She has been enrolled at Cal Poly in San Luis Obispo since **2019**.
@@ -15,4 +17,18 @@ Nicole is involved in multiple organizations on campus, including the _Cal Poly 
 
 ## Personal Life
 Nicole has a deep appreciation for art, and especially how it intertwines with technology. She pursues art in her free time as a form of relaxtion: an **escape** from her hectic schedule.
+
+###### Visual and Digital Artwork
+Nicole has experience with a variety of art outlets. You can see a list of her skills below.
+* **Visual Art**
+  * acrylic painting
+  * screen printing
+  * embroidery
+  * papermaking
+* **Digital Art**
+  * Adobe InDesign
+  * Adobe Illustrator, Photoshop
+  * Canva Creative Studio
+
+>Expressing myself artistically comes natural to me. Making my own art gives me the most creative freedom, and I enjoy it when times get more stressful. - Nicole
 
