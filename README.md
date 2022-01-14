@@ -41,7 +41,7 @@ Nicole has experience with a variety of art outlets. You can see a list of her s
 
 >Expressing myself artistically comes natural to me. Making my own art gives me the most creative freedom, and I enjoy it when times get more stressful. - Nicole
 
-****** Projects
+###### Projects
 
 The following image is her renditon of the [MuleSoft Mascot](https://www.salesforce.com/blog/meet-trailhead-characters-blog/), **Max the Mule**, made on _Adobe Illustrator_.
 
