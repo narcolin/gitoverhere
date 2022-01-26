@@ -35,9 +35,11 @@ Nicole has experience with a variety of art outlets. You can see a list of her s
    * embroidery
    * papermaking
 2. **Digital Art**
-  * Adobe InDesign
-  * Adobe Illustrator, Photoshop
-  * Canva Creative Studio
+    * Adobe InDesign
+    * Adobe Illustrator, Photoshop
+    * Canva Creative Studio
+
+![MaxtheMule](https://user-images.githubusercontent.com/97199824/149471397-fd237605-5013-4d5f-aa37-0f13f7d73af8.png)
 
 >Expressing myself artistically comes natural to me. Making my own art gives me the most creative freedom, and I enjoy it when times get more stressful. - Nicole
 
