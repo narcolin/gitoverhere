@@ -30,10 +30,10 @@ Nicole has a deep appreciation for art, and especially how it intertwines with t
 ###### Visual and Digital Artwork
 Nicole has experience with a variety of art outlets. You can see a list of her skills below.
 1. **Visual Art**
-  * acrylic painting
-  * screen printing
-  * embroidery
-  * papermaking
+   * acrylic painting
+   * screen printing
+   * embroidery
+   * papermaking
 2. **Digital Art**
   * Adobe InDesign
   * Adobe Illustrator, Photoshop
